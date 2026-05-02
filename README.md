@@ -104,5 +104,6 @@ The goal of this Spotify Analytics Dashboard is to provide a single, interactive
 
 * Show what the dashboard looks like.
 
-Spotify_music_trend_analysis_day_1.png
+
+<img width="882" height="501" alt="Spotify_music_trend_analysis_day_1" src="https://github.com/user-attachments/assets/acf1f62d-6949-4f71-a48d-f64cdda319c9" />
 
