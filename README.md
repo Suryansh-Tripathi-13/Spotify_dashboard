@@ -60,12 +60,12 @@ A supplementary Calender table was also created to support time intelligence fun
 *  Business impact & Insights
 
 
-1-  Business Problem:-
+a-  Business Problem:-
   
 The global music streaming industry generates billions of streams annually, yet artists, music analysts, playlist curators, and digital marketers often lack an intuitive way to compare track performance, understand audio trends, and identify what makes a song go viral on platforms like Spotify. Without a centralized analytical view, it becomes difficult to spot patterns in streaming behavior, track cross-platform reach, or evaluate the role of audio attributes in a song's success.
 
 
-2-  Goal of the Dashboard:- 
+b-   Goal of the Dashboard:- 
   
 The goal of this Spotify Analytics Dashboard is to provide a single, interactive Power BI report that enables users to:
 *  Monitor total streams, average streams, and track counts at a glance using KPI cards.
@@ -75,7 +75,7 @@ The goal of this Spotify Analytics Dashboard is to provide a single, interactive
 *  Filter and drill into data by track name, artist, and date for personalized exploration.
   
 
-3- Walk Through of Key Visuals (briefly!):-
+c-   Walk Through of Key Visuals (briefly!):-
   
 *  KPI Cards (Top Row): Display Total Streams, Total Tracks, and Avg Streams for a quick performance summary.
 * Streams by Release Date (Line Chart): Shows how streams are distributed across different release dates, revealing peak periods of music activity.
@@ -87,7 +87,7 @@ The goal of this Spotify Analytics Dashboard is to provide a single, interactive
 
   
 
-4-  Business Impact & Insights:-
+d-   Business Impact & Insights:-
 
   
 *  Tracks appearing in more Spotify playlists consistently show significantly higher total stream counts, reinforcing the critical role of playlist placement in music marketing strategy.
